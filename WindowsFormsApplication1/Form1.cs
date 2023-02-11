@@ -22,6 +22,7 @@ namespace WindowsFormsApplication1
             if (e.ColumnIndex == 0)
             {
                 MessageBox.Show("Click");
+                MessageBox.Show("Click");
             }
 
         }
