@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{6513AF59-E9ED-4977-AE15-A817610BED0B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dev_OPS_Setup", "Dev_OPS_Setup\Dev_OPS_Setup.vdproj", "{E7E38798-6410-460A-A5D3-8DBAD2249973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,8 @@ Global
 		{6513AF59-E9ED-4977-AE15-A817610BED0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6513AF59-E9ED-4977-AE15-A817610BED0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6513AF59-E9ED-4977-AE15-A817610BED0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E38798-6410-460A-A5D3-8DBAD2249973}.Debug|Any CPU.ActiveCfg = Debug
+		{E7E38798-6410-460A-A5D3-8DBAD2249973}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
